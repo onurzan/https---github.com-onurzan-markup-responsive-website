@@ -6,6 +6,7 @@
 
 <p>It has been dealt with completely responsive structure and content.</p>
 
+<hr>
 <h4>Desktop Screensave</h4>
 <hr>
 <img src="./markup-responsive-desktop.gif" />
